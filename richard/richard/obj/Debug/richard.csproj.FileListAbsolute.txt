@@ -1,7 +1,0 @@
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\bin\Debug\richard.exe.config
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\bin\Debug\richard.exe
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\bin\Debug\richard.pdb
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\obj\Debug\richard.csprojResolveAssemblyReference.cache
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\obj\Debug\richard.csproj.CoreCompileInputs.cache
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\obj\Debug\richard.exe
-C:\Users\kira_.DESKTOP-OCFO3CT\source\repos\richard\richard\obj\Debug\richard.pdb
