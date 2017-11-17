@@ -1,0 +1,10 @@
+D:\workspace\pgm\dotnet\Richard\bin\Debug\netcoreapp2.0\Richard.deps.json
+D:\workspace\pgm\dotnet\Richard\bin\Debug\netcoreapp2.0\Richard.runtimeconfig.json
+D:\workspace\pgm\dotnet\Richard\bin\Debug\netcoreapp2.0\Richard.runtimeconfig.dev.json
+D:\workspace\pgm\dotnet\Richard\bin\Debug\netcoreapp2.0\Richard.dll
+D:\workspace\pgm\dotnet\Richard\bin\Debug\netcoreapp2.0\Richard.pdb
+D:\workspace\pgm\dotnet\Richard\obj\Debug\netcoreapp2.0\Richard.csproj.CoreCompileInputs.cache
+D:\workspace\pgm\dotnet\Richard\obj\Debug\netcoreapp2.0\Richard.AssemblyInfoInputs.cache
+D:\workspace\pgm\dotnet\Richard\obj\Debug\netcoreapp2.0\Richard.AssemblyInfo.cs
+D:\workspace\pgm\dotnet\Richard\obj\Debug\netcoreapp2.0\Richard.dll
+D:\workspace\pgm\dotnet\Richard\obj\Debug\netcoreapp2.0\Richard.pdb
